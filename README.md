@@ -1,6 +1,6 @@
-<h1>Hi, I'm Nitario ! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/"</h1>
+<h1>Hi, I'm Nitario ! <br/><a href="https://github.com/kvngtario">Information Systems Analyst</a>, <a href="https://www.linkedin.com/in/NiatarioKingjr/"</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Info Systems & Network Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
